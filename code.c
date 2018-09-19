@@ -2,7 +2,9 @@
 
 int main(){
 	
-	printf("Teste de controle de verção git\n");
+	int x = 0;
+	
+	printf("Teste de controle de verção git = %d\n",x);
 	
 	return 0;
 }	
