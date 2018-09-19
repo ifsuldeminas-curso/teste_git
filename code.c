@@ -14,7 +14,7 @@ int main(){
 }
 
 int soma(int x,int y){
-	return x+y;
+	return x+y; //code teste
 }
 int subtracao(int x,int y){
 	return x-y;
